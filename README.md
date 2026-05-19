@@ -5,7 +5,6 @@
 - 🚀 **Enfoque:** Automatización de procesos complejos, herramientas de visión artificial y manipulación de memoria mediante **Python**.
 - 🔭 **Proyectos actuales:** Desarrollo de herramientas de asistencia y escaneo de datos para juegos y aplicaciones de sistema.
 - 🌱 **Aprendiendo:** Actualmente profundizando en el ecosistema de **Rust** y optimización de bases de datos **SQL**.
-- 📫 **Contacto:** Escríbeme a **esesoyyo@gmail.com**
 
 ---
 
