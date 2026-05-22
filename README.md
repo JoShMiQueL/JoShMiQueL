@@ -1,4 +1,3 @@
-<h1 align="center">Hola 👋, soy Josemi</h1>
 <h3 align="center">Desarrollador Full Stack & Especialista en Automatización de Sistemas</h3>
 <p align="center">📍 España</p>
 
