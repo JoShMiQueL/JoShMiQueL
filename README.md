@@ -1,13 +1,13 @@
 <h3 align="center">Desarrollador Full Stack & Especialista en Automatización de Sistemas</h3>
 <p align="center">📍 España</p>
 
-- 🚀 **Enfoque:** Automatización de procesos complejos, herramientas de visión artificial y manipulación de memoria mediante **Python**.
-- 🔭 **Proyectos actuales:** Desarrollo de herramientas de asistencia y escaneo de datos para juegos y aplicaciones de sistema.
-- 🌱 **Aprendiendo:** Actualmente profundizando en el ecosistema de **Rust** y optimización de bases de datos **SQL**.
+- **Enfoque:** Automatización de procesos complejos, herramientas de visión artificial y manipulación de memoria mediante **Python**.
+- **Proyectos actuales:** Desarrollo de herramientas de asistencia y escaneo de datos para juegos y aplicaciones de sistema.
+- **Aprendiendo:** Actualmente profundizando en el ecosistema de **Rust** y optimización de bases de datos **SQL**.
 
 ---
 
-### 🛠️ Proyectos Destacados
+### Proyectos Destacados
 
 He desarrollado herramientas técnicas que van desde la lectura de memoria de procesos hasta aplicaciones de visión artificial:
 
@@ -18,7 +18,7 @@ He desarrollado herramientas técnicas que van desde la lectura de memoria de pr
 
 ---
 
-### 🚀 Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 #### Automatización e Ingeniería de Sistemas
 <p align="left">
